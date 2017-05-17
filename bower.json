@@ -1,0 +1,31 @@
+{
+  "name": "vocaApp",
+  "version": "1.0.0",
+  "description": "vocaApp for pratice English voca",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "voca",
+    "vocaApp",
+    "English voca"
+  ],
+  "authors": [
+    "SANGHYUN EOM"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "font-awesome": "~4.4.0",
+    "angular": "~1.6.4",
+    "angular-route": "^1.6.4",
+    "angular-ui-router": "^0.4.2",
+    "bootstrap": "3.3.5",
+    "angular-resource": "^1.6.4",
+    "angular-mocks": "^1.6.4"
+  }
+}
